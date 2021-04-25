@@ -5,7 +5,7 @@ Clone the project and access the folder
 
 $ git clone https://github.com/victhorAln/podcastr.git && cd podcastr
 
-# Follow the steps below
+# Follow the steps below:
 
 # Install the dependencies
 $ yarn
