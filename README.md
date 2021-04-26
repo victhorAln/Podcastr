@@ -1,4 +1,6 @@
 # Podcastr
+
+
 # Requirements
 You need to install both Node.js and Yarn to run this project.
 Clone the project and access the folder
